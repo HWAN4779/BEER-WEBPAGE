@@ -1,0 +1,629 @@
+body {
+   background-color: black;
+   width: 1920px;
+   margin: 0;
+   padding: 0;
+   color: white;
+   font-family: 'Noto Sans KR', sans-serif;
+}
+a { text-decoration: none;
+    font-weight: bold;
+color: white;}
+.a {
+    width: 1920px;
+    height: 1437px;
+    background-image : url("image/t1.png");
+    background-repeat : no-repeat;
+}
+.story1 {
+    line-height:110%;
+    font-size: 93px;
+    width: 1000px;
+    height: 70px;
+    float: left;
+    margin-top: 450px;
+    margin-left: 90px;
+}
+.story2 {
+    font-size: 183px;
+    width: 1000px;
+    height: 70px;
+    float: left;
+    margin-left: 90px;
+    margin-top: 80px;
+}
+
+.button1 {
+    opacity: 80%;
+    font-size: 30px;
+    width: 100px;
+    height: 70px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 900px;
+}
+.button1:hover {
+    opacity: 80%;
+}
+.button2 {
+    opacity: 80%;
+    font-size: 30px;
+    width: 100px;
+    height: 70px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.button2:hover {
+    opacity: 50%;
+}
+.#button-2 {
+    position: absolute;
+    color: white;
+}
+.button3 {
+    opacity: 80%;
+    font-size: 30px;
+    width: 200px;
+    height: 70px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+.button3:hover {
+    opacity: 50%;
+}
+.button4 {
+    opacity: 80%;
+    font-size: 30px;
+    width: 160px;
+    height: 70px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+.button4:hover {
+    opacity: 50%;
+}
+.button5 {
+    opacity: 80%;
+    font-size: 30px;
+    width: 160px;
+    height: 70px;
+    float: left;
+    margin-top: 60px;
+}
+.button5:hover {
+    opacity: 50%;
+}
+.a-1 {
+    background-image: url(image/b4.png);
+    background-repeat: no-repeat;
+    width: 730px;
+    height: 993px;
+    float: right;
+    margin-right: 1200px;
+}
+
+img{
+    display: block;
+    vertical-align: bottom;
+}
+
+
+
+.b {
+    width: 1920px;
+    height: 2000px;
+    background-image: url(image/t20.png);
+    margin: 0;
+}
+.historytitle {
+    font-size: 90px;
+    width: 600px;
+    height: 70px;
+    float: left;
+    margin-left: 450px;
+    margin-top: 140px;
+    position: absolute;
+}
+h1 {
+    font-size: 50px;
+}
+.history {
+    line-height: 50px;
+    opacity: 80%;
+    font-size: 22px;
+    width: 1800px;
+    height: 70px;
+    float: left;
+    margin-left: 115px;
+}
+.history2 {
+    line-height: 50px;
+    opacity: 80%;
+    font-size: 22px;
+    width: 1800px;
+    height: 70px;
+    float: left;
+    margin-left: 115px;
+    margin-top: 500px;
+}
+.history3 {
+    line-height: 50px;
+    opacity: 80%;
+    font-size: 22px;
+    width: 1800px;
+    height: 70px;
+    float: left;
+    margin-left: 115px;
+    margin-top: 500px;
+}
+.KOR {
+    font-size: 70px;
+    width: 1800px;
+    height: 70px;
+    float: left;
+    margin-left: 115px;
+    margin-top: 500px;
+}
+.KOR2 {
+    line-height: 50px;
+    opacity: 80%;
+    font-size: 23px;
+    width: 1800px;
+    height: 70px;
+    float: left;
+    margin-left: 115px;
+    margin-top: 110px;
+}
+
+.b-1 {
+    background-image: url(image/go10.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 279px;
+    height: 723px;
+    float: right;
+    margin-left: 1650px;
+    margin-top: 2279px;
+}
+
+
+
+.c {
+    width: 1920px;
+    height: 467px;
+    background-image : url("image/t3.png");
+    margin:0;
+    margin-top: 1000px;
+}
+.Lagerale {
+    font-size: 120px;
+    width: 1800;
+    height: 70px;
+    text-align: center;
+    padding-top: 100px;
+}
+.Lagerale2 {
+    opacity: 80%;
+    font-size: 45px;
+    width: 1800px;
+    height: 70px;
+    float: left;
+    margin-top: 90px;
+    text-align: center;
+}
+.Lagerale3 {
+    font-size: 20px;
+    width: 1800px;
+    height: 70px;
+    float: left;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 20px;
+    position: absolute;
+}
+.c1 {
+    width: 1920px;
+    height: 2000px;
+}
+.c2 {
+    background-image: url(image/a67.png);
+    width: 562px;
+    height: 618px;
+    float:left;
+    margin-top: 400px;
+    margin-left: 300px;
+}
+.Ale1 {
+    font-size: 60px;
+    width: 300px;
+    height: 70px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 500px;
+
+}
+.Ale2 {
+    line-height: 35px;
+    opacity: 80%;
+    font-size: 20px;
+    width: 600px;
+    height: 70px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.Ale3 {
+    font-size: 20px;
+    width: 600px;
+    height: 70px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 150px;
+    line-height: 35px;
+    opacity: 80%;
+}
+.c3 {
+    background-image: url(image/l13.png);
+    width: 562px;
+    height: 618px;
+    float: right;
+    margin-top: 350px;
+    margin-right: 400px;
+}
+.Lager1 {
+    font-size: 60px;
+    width: 400px;
+    height: 70px;
+    float: right;
+    margin-right: 200px; 
+    margin-top: 350px;
+}
+.Lager2 {
+    line-height: 35px;
+    opacity: 80%;
+    font-size: 20px;
+    width: 600px;
+    height: 70px;
+    float: left;
+    margin-left: 350px; 
+    margin-top: 50px;
+}
+
+.Lager3 {
+    line-height: 35px;
+    font-size: 20px;
+    width: 600px;
+    height: 70px;
+    float: left;
+    margin-left: 350px;
+    margin-top: 100px;
+    opacity: 80%;
+}
+.d {
+    width: 1920px;
+    height: 1995px;
+    background-image:url(image/y78.png);
+}
+.beer1 {
+    font-size: 90px;
+    width: 700px;
+    height: 70px;
+    float: left;
+    margin-top: 400px;
+    margin-left: 750px;
+    opacity: 80%;
+}
+.beer2 {
+    font-size: 23px;
+    width: 1500px;
+    height: 70px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 100px;
+    text-align: center;
+    opacity: 80%;
+}
+
+.e{
+    width: 1920px;
+    height: 467px;
+    background-image: url(image/t4.png);
+    margin: 0;
+}
+.make1 {
+    font-size: 110px;
+    width: 1000px;
+    height: 70px;
+    float: left;
+    margin-left: 470px;
+    margin-top: 160px;
+    text-align: center;
+    opacity: 80%;
+}
+
+.floating {   
+    position: fixed; 
+    right: 630px; 
+    top: 350px; 
+    margin-right: -615px; 
+    text-align:center; 
+    width:70px;
+} 
+.floating div:nth-child(1):hover {
+    opacity: 50%;
+}
+.floating div:nth-child(1){  
+    width: 50px;
+    height: 50px;
+    background-image: url(image/ta50.png);
+    color: black;
+} 
+.floating div:nth-child(2):hover {
+    opacity: 50%;
+}
+.floating div:nth-child(2){ 
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    background-image: url(image/ta60.png);
+    color: black;
+} 
+.floating div:nth-child(3):hover {
+    opacity: 50%;
+}
+.floating div:nth-child(3){  
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    background-image: url(image/ta80.png);
+    color: black;
+} 
+.conbox {position:relative;}
+
+input[type="radio"] {display:none;} /* input을 선택해서 화면에서 안보이게 스타일을 주었습니다. */
+.conbox {
+    width:827px;
+    height:430px;
+    display:none; 
+    position: absolute;  
+    margin-top: 1000px; 
+    margin-left: 550px;
+} /* 컨텐츠 영역에 준 공통스타일입니다. */박스크기 결정
+
+.btn {padding:10px;text-align:center;}
+    
+label[for*="tab01"] {
+    cursor:pointer;
+    margin:5px;
+    width: 200px; 
+    height: 268px; 
+    background-image: url(image/11/KL1-1.png); background-repeat: no-repeat;
+    float: left;
+    margin-left: 330px;
+    margin-top: 40px;
+    }
+    
+label[for*="tab02"] {
+    cursor:pointer;
+    margin:5px;
+    width: 200px; 
+    height: 268px; 
+    background-image: url(image/11/KL2-1.png); background-repeat: no-repeat;
+    float: left;
+    margin-left: 150px;
+    margin-top: 40px;
+    }
+    
+label[for*="tab03"] {
+    cursor:pointer;
+    margin:5px;
+    width: 200px; 
+    height: 268px; 
+    background-image: url(image/11/KL3-1.png); background-repeat: no-repeat;
+    float: left;
+    margin-left: 150px;
+    margin-top: 40px;
+    }
+    
+label[for*="tab04"] {
+    cursor:pointer;
+    margin:5px;
+    width: 200px; 
+    height: 268px; 
+    background-image: url(image/11/KL4-1.png); background-repeat: no-repeat;
+    float: left;
+    margin-left: 150px;
+    margin-top: 40px;
+    }
+    
+    
+input[id="tab01"]:checked ~ .con1 {display:block;} /* 인풋에 체크가 되면 con1클래스를 갖고 있는 요소가 display:block;이 됨 */
+input[id="tab02"]:checked ~ .con2 {display:block;}
+input[id="tab03"]:checked ~ .con3 {display:block;}
+input[id="tab04"]:checked ~ .con4 {display:block;}
+    
+input[id="tab01"]:checked ~ .btn > label[for="tab01"]{background-image: url(image/11/KL1-3.png);}
+input[id="tab01"]:checked ~ .btn > label[for="tab02"]{background-image: url(image/11/KL2-1.png);}
+input[id="tab01"]:checked ~ .btn > label[for="tab03"]{background-image: url(image/11/KL3-1.png);}
+input[id="tab01"]:checked ~ .btn > label[for="tab04"]{background-image: url(image/11/KL4-1.png);}
+
+input[id="tab02"]:checked ~ .btn > label[for="tab01"]{background-image: url(image/11/KL1-1.png);}
+input[id="tab02"]:checked ~ .btn > label[for="tab02"]{background-image: url(image/11/KL2-3.png);}
+input[id="tab02"]:checked ~ .btn > label[for="tab03"]{background-image: url(image/11/KL3-1.png);}
+input[id="tab02"]:checked ~ .btn > label[for="tab04"]{background-image: url(image/11/KL4-1.png);}
+
+input[id="tab03"]:checked ~ .btn > label[for="tab01"]{background-image: url(image/11/KL1-1.png);}
+input[id="tab03"]:checked ~ .btn > label[for="tab02"]{background-image: url(image/11/KL2-1.png);}
+input[id="tab03"]:checked ~ .btn > label[for="tab03"]{background-image: url(image/11/KL3-3.png);}
+input[id="tab03"]:checked ~ .btn > label[for="tab04"]{background-image: url(image/11/KL4-1.png);}
+
+input[id="tab04"]:checked ~ .btn > label[for="tab01"]{background-image: url(image/11/KL1-1.png);}
+input[id="tab04"]:checked ~ .btn > label[for="tab02"]{background-image: url(image/11/KL2-1.png);}
+input[id="tab04"]:checked ~ .btn > label[for="tab03"]{background-image: url(image/11/KL3-1.png);}
+input[id="tab04"]:checked ~ .btn > label[for="tab04"]{background-image: url(image/11/KL4-3.png);}
+
+.con1 {
+        background-image: url(image/11/KL11.png);
+}
+.con2 {
+        background-image: url(image/11/KL22.png);
+}
+.con3 {
+        background-image: url(image/11/KL33.png);
+}
+.con4 {
+        background-image: url(image/11/KL44.png);
+}
+            
+.e-1 {
+    width: 1920px;
+    height: 1600px;
+}
+.e-2 {
+    position: absolute;
+    margin-top: 100px;
+    width: 1920px;
+    height: 1550px;
+    background-image: url(image/000-1.png);
+}
+
+.bonbox {position:relative;}
+
+input[type="radio"] {display:none;} /* input을 선택해서 화면에서 안보이게 스타일을 주었습니다. */
+.bonbox {width: 1179px;
+    height:628px;
+    display:none; 
+    position: absolute; 
+    margin-top: 370px;
+    margin-left: 950px;
+    transform: translate(-50%,-50%);} /* 컨텐츠 영역에 준 공통스타일입니다. */박스크기 결정
+
+.ctn {padding:10px;text-align:center;}
+    
+label[for*="tab06"] {
+    cursor:pointer;
+    position: absolute;
+    margin:5px;
+    width: 30px; 
+    height: 30px; 
+    background-image: url(image/11/bt-2.png); background-repeat: no-repeat;
+    float: left;
+    margin-left: 230px;
+    margin-top: 300px;
+    }
+    
+label[for*="tab07"] {
+    cursor:pointer;
+    position: absolute;
+    margin:5px;
+    width: 30px; 
+    height: 30px; 
+    background-image: url(image/11/bt-2.png); background-repeat: no-repeat;
+    float: left;
+    margin-left: 230px;
+    margin-top: 340px;
+    }
+    
+label[for*="tab08"] {
+    cursor:pointer;
+    position: absolute;
+    margin:5px;
+    width: 30px; 
+    height: 30px;
+    background-image: url(image/11/bt-2.png); background-repeat: no-repeat;
+    float: left;
+    margin-left: 230px;
+    margin-top: 380px;
+    }
+    
+label[for*="tab09"] {
+    cursor:pointer;
+    position: absolute;
+    margin:5px;
+    width: 30px; 
+    height: 30px; 
+    background-image: url(image/11/bt-2.png); background-repeat: no-repeat;
+    float: left;
+    margin-left: 230px;
+    margin-top: 420px;
+    }
+    
+label[for*="tab010"] {
+    cursor:pointer;
+    position: absolute;
+    margin:5px;
+    width: 30px;
+    height: 30px; 
+    background-image: url(image/11/bt-2.png); background-repeat: no-repeat;
+    float: left;
+    margin-left: 230px;
+    margin-top: 460px;
+    }
+    
+
+    
+input[id="tab06"]:checked ~ .bon1 {display:block;} /* 인풋에 체크가 되면 con1클래스를 갖고 있는 요소가 display:block;이 됨 */
+input[id="tab07"]:checked ~ .bon2 {display:block;}
+input[id="tab08"]:checked ~ .bon3 {display:block;}
+input[id="tab09"]:checked ~ .bon4 {display:block;}
+input[id="tab010"]:checked ~ .bon5 {display:block;}
+    
+input[id="tab06"]:checked ~ .ctn > label[for="tab06"]{background-image: url(image/11/bt-2.png)} /* 활성화 된 버튼 */
+input[id="tab06"]:checked ~ .ctn > label[for="tab07"]{background-image: url(image/11/bt-1.png)}
+input[id="tab06"]:checked ~ .ctn > label[for="tab08"]{background-image: url(image/11/bt-1.png)}
+input[id="tab06"]:checked ~ .ctn > label[for="tab09"]{background-image: url(image/11/bt-1.png)}
+input[id="tab06"]:checked ~ .ctn > label[for="tab010"]{background-image: url(image/11/bt-1.png)}
+    
+
+
+    
+input[id="tab07"]:checked ~ .ctn > label[for="tab06"]{background-image: url(image/11/bt-1.png)} /* 활성화 된 버튼 */
+input[id="tab07"]:checked ~ .ctn > label[for="tab07"]{background-image: url(image/11/bt-2.png)}
+input[id="tab07"]:checked ~ .ctn > label[for="tab08"]{background-image: url(image/11/bt-1.png)}
+input[id="tab07"]:checked ~ .ctn > label[for="tab09"]{background-image: url(image/11/bt-1.png)}
+input[id="tab07"]:checked ~ .ctn > label[for="tab010"]{background-image: url(image/11/bt-1.png)}    
+
+    
+    
+input[id="tab08"]:checked ~ .ctn > label[for="tab06"]{background-image: url(image/11/bt-1.png)} /* 활성화 된 버튼 */
+input[id="tab08"]:checked ~ .ctn > label[for="tab07"]{background-image: url(image/11/bt-1.png)}
+input[id="tab08"]:checked ~ .ctn > label[for="tab08"]{background-image: url(image/11/bt-2.png)}
+input[id="tab08"]:checked ~ .ctn > label[for="tab09"]{background-image: url(image/11/bt-1.png)}
+input[id="tab08"]:checked ~ .ctn > label[for="tab010"]{background-image: url(image/11/bt-1.png)}
+    
+
+    
+input[id="tab09"]:checked ~ .ctn > label[for="tab06"]{background-image: url(image/11/bt-1.png)} /* 활성화 된 버튼 */
+input[id="tab09"]:checked ~ .ctn > label[for="tab07"]{background-image: url(image/11/bt-1.png)}
+input[id="tab09"]:checked ~ .ctn > label[for="tab08"]{background-image: url(image/11/bt-1.png)}
+input[id="tab09"]:checked ~ .ctn > label[for="tab09"]{background-image: url(image/11/bt-2.png)}
+input[id="tab09"]:checked ~ .ctn > label[for="tab010"]{background-image: url(image/11/bt-1.png)}
+    
+input[id="tab010"]:checked ~ .ctn > label[for="tab06"]{background-image: url(image/11/bt-1.png)} /* 활성화 된 버튼 */
+input[id="tab010"]:checked ~ .ctn > label[for="tab07"]{background-image: url(image/11/bt-1.png)}
+input[id="tab010"]:checked ~ .ctn > label[for="tab08"]{background-image: url(image/11/bt-1.png)}
+input[id="tab010"]:checked ~ .ctn > label[for="tab09"]{background-image: url(image/11/bt-1.png)}
+input[id="tab010"]:checked ~ .ctn > label[for="tab010"]{background-image: url(image/11/bt-2.png)}
+    
+    
+
+.bon1 {
+        background-image: url(image/11/op11.png);
+}
+.bon2 {
+        background-image: url(image/11/op21.png);
+}
+.bon3 {
+        background-image: url(image/11/op31.png);
+}
+.bon4 {
+        background-image: url(image/11/op41.png);
+}
+.bon5 {
+        background-image: url(image/11/op51.png);
+}
+            
+            
